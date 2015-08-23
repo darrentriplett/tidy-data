@@ -52,7 +52,7 @@ t-GravityAcc-mean-Z
 t-BodyAccJerk-mean-X 
 t-BodyAccJerk-mean-Y 
 t-BodyAccJerk-mean-Z 
-	The time domain signal of mean body accleleration jerk in the X,Y and Z movement vectors measured in Hz.
+	 The time domain signal of mean body accleleration jerk in the X,Y and Z movement vectors measured in Hz.
 
  
 t-BodyGyro-mean-X 
