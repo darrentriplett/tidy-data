@@ -30,7 +30,7 @@ test <- cbind(subject_test, y_test)
 
 #bind columns together in test set
 test2 <- cbind(test, x_test)
-#test2 <- test2[-c(305,319,333)]
+
 
 #repeat same steps for training set
 subject_train <- read.table("./train/subject_train.txt")
@@ -41,7 +41,7 @@ names(y_train) <- "activity"
 names(subject_train) <- "subject"
 train <- cbind(subject_train, y_train)
 train2 <- cbind(train, x_train)
-#train2 <- train2[-c(305,319,333)]
+
 
 
 # bind the rows in the training and test sets into one data set
