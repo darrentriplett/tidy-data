@@ -29,170 +29,170 @@ was calculated using the jerk signals.
 ## Below are the variables contained in the data set and an explanation of each.
 
 
-subject 
+subject <br>
 	The data set contains information gathered from 30 volunteers who participated in the study.  The range is 		from 1 to 30.
 
-activity 
-	*The 30 subjects performed 6 different activities to gather the data.  
-	*Laying, Sitting, Standing, Walking, Walking_Downstairs, Walking_Upstairs
+activity <br>
+	The 30 subjects performed 6 different activities to gather the data.  
+	Laying, Sitting, Standing, Walking, Walking_Downstairs, Walking_Upstairs<br><br>
 
 
-t-BodyAcc-mean-X 
-t-BodyAcc-mean-Y 
-t-BodyAcc-mean-Z 
-	The time domain signal of mean body acceleration in the X,Y and Z movement vectors measured in Hz.
+t-BodyAcc-mean-X <br>
+t-BodyAcc-mean-Y <br>
+t-BodyAcc-mean-Z <br>
+	The time domain signal of mean body acceleration in the X,Y and Z movement vectors measured in Hz.<br><br>
 	
 	
-t-GravityAcc-mean-X 
-t-GravityAcc-mean-Y 
-t-GravityAcc-mean-Z 
-	The time domain signal of mean gravity acceleration in the X,Y and Z movement vectors measured in Hz.
+t-GravityAcc-mean-X <br>
+t-GravityAcc-mean-Y <br>
+t-GravityAcc-mean-Z <br>
+	The time domain signal of mean gravity acceleration in the X,Y and Z movement vectors measured in Hz.<br><br>
 
 
-t-BodyAccJerk-mean-X 
-t-BodyAccJerk-mean-Y 
-t-BodyAccJerk-mean-Z 
-	 The time domain signal of mean body accleleration jerk in the X,Y and Z movement vectors measured in Hz.
+t-BodyAccJerk-mean-X <br>
+t-BodyAccJerk-mean-Y <br>
+t-BodyAccJerk-mean-Z <br>
+	 The time domain signal of mean body accleleration jerk in the X,Y and Z movement vectors measured in Hz.<br><br>
 
  
-t-BodyGyro-mean-X 
-t-BodyGyro-mean-Y 
-t-BodyGyro-mean-Z 
-	The time domain signal of mean angular velocity in the X,Y and Z movement vectors measured in radians/second.
+t-BodyGyro-mean-X <br>
+t-BodyGyro-mean-Y <br>
+t-BodyGyro-mean-Z <br>
+	The time domain signal of mean angular velocity in the X,Y and Z movement vectors measured in radians/second.<br><br>
 
 
-t-BodyGyroJerk-mean-X 
-t-BodyGyroJerk-mean-Y 
-t-BodyGyroJerk-mean-Z 
-	The time domain signal of mean angular velocity jerk in the X,Y and Z movement vectors measured in radians/second.
-
-
-
-t-BodyAccMag-mean 
-	The time domain signal of mean linear body acceleration magnitude measured in Hz.
-
-t-GravityAccMag-mean 
-	The time domain signal of mean gravity accleration magnitude measured in Hz.
-
-t-BodyAccJerkMag-mean 
-	The time domain signal of mean linear body acceleration jerk magnitude measured in Hz.
-
-
-t-BodyGyroMag-mean 
-	The time domain signal of mean angular velocity magnitude measured in radians/second.
-
-t-BodyGyroJerkMag-mean 
-	The time domain signal of mean angular velocity jerk magnitude measured in radians/second.
-
-
-f-BodyAcc-mean-X 
-f-BodyAcc-mean-Y 
-f-BodyAcc-mean-Z 
-	The frequency domain signal of mean body acceleration in the X,Y and Z movement vectors measured in Hz.
-
-
-f-BodyAccJerk-mean-X 
-f-BodyAccJerk-mean-Y 
-f-BodyAccJerk-mean-Z 
-	The frequency domain signal of mean body accleleration jerk in the X,Y and Z movement vectors measured in Hz.
+t-BodyGyroJerk-mean-X <br>
+t-BodyGyroJerk-mean-Y <br>
+t-BodyGyroJerk-mean-Z <br>
+	The time domain signal of mean angular velocity jerk in the X,Y and Z movement vectors measured in radians/second.<br><br>
 
 
 
-f-BodyGyro-mean-X 
-f-BodyGyro-mean-Y 
-f-BodyGyro-mean-Z 
-	The frequency domain signal of mean angular velocity in the X,Y and Z movement vectors measured in radians/second.
+t-BodyAccMag-mean <br>
+	The time domain signal of mean linear body acceleration magnitude measured in Hz.<br><br>
+
+t-GravityAccMag-mean <br>
+	The time domain signal of mean gravity accleration magnitude measured in Hz.<br><br>
+
+t-BodyAccJerkMag-mean <br>
+	The time domain signal of mean linear body acceleration jerk magnitude measured in Hz.<br><br>
 
 
-f-BodyAccMag-mean 
-	The frequency domain signal of mean linear body acceleration magnitude measured in Hz.
+t-BodyGyroMag-mean <br>
+	The time domain signal of mean angular velocity magnitude measured in radians/second.<br><br>
+
+t-BodyGyroJerkMag-mean <br>
+	The time domain signal of mean angular velocity jerk magnitude measured in radians/second.<br><br>
 
 
-f-BodyAccJerkMag-mean 
-	The frequency domain signal of mean linear body acceleration jerk magnitude measured in Hz.
+f-BodyAcc-mean-X <br>
+f-BodyAcc-mean-Y <br>
+f-BodyAcc-mean-Z <br>
+	The frequency domain signal of mean body acceleration in the X,Y and Z movement vectors measured in Hz.<br><br>
 
-	
-f-BodyGyroMag-mean 
-	The frequency domain signal of mean angular velocity magnitude measured in radians/second.
+
+f-BodyAccJerk-mean-X <br>
+f-BodyAccJerk-mean-Y <br>
+f-BodyAccJerk-mean-Z <br>
+	The frequency domain signal of mean body accleleration jerk in the X,Y and Z movement vectors measured in Hz.<br><br>
+
+
+
+f-BodyGyro-mean-X <br>
+f-BodyGyro-mean-Y <br>
+f-BodyGyro-mean-Z <br>
+	The frequency domain signal of mean angular velocity in the X,Y and Z movement vectors measured in radians/second.<br><br>
+
+
+f-BodyAccMag-mean <br>
+	The frequency domain signal of mean linear body acceleration magnitude measured in Hz.<br><br>
+
+
+f-BodyAccJerkMag-mean <br>
+	The frequency domain signal of mean linear body acceleration jerk magnitude measured in Hz.<br><br>
 
 	
-f-BodyGyroJerkMag-mean 
-	The frequency domain signal of mean angular velocity jerk magnitude measured in radians/second.
+f-BodyGyroMag-mean <br>
+	The frequency domain signal of mean angular velocity magnitude measured in radians/second.<br><br>
+
+	
+f-BodyGyroJerkMag-mean <br>
+	The frequency domain signal of mean angular velocity jerk magnitude measured in radians/second.<br><br>
 
 
-t-BodyAcc-std-X 
-t-BodyAcc-std-Y 
-t-BodyAcc-std-Z 
-		The mean standard deviation of the time domain signal of body acceleration in the X,Y and Z movement vectors measured in Hz.
+t-BodyAcc-std-X <br>
+t-BodyAcc-std-Y <br>
+t-BodyAcc-std-Z <br>
+		The mean standard deviation of the time domain signal of body acceleration in the X,Y and Z movement vectors measured in Hz.<br><br>
 
 		
-t-GravityAcc-std-X 
-t-GravityAcc-std-Y 
-t-GravityAcc-std-Z 
-		The mean standard deviation of the time domain signal of gravity acceleration in the X,Y and Z movement vectors measured in Hz.
+t-GravityAcc-std-X <br>
+t-GravityAcc-std-Y <br>
+t-GravityAcc-std-Z <br>
+		The mean standard deviation of the time domain signal of gravity acceleration in the X,Y and Z movement vectors measured in Hz.<br><br>
 
-t-BodyAccJerk-std-X 
-t-BodyAccJerk-std-Y 
-t-BodyAccJerk-std-Z 
-	The mean standard deviation of the time domain signal of mean body accleleration jerk in the X,Y and Z movement vectors measured in Hz.
+t-BodyAccJerk-std-X <br>
+t-BodyAccJerk-std-Y <br>
+t-BodyAccJerk-std-Z <br>
+	The mean standard deviation of the time domain signal of mean body accleleration jerk in the X,Y and Z movement vectors measured in Hz.<br><br>
 	
 	
-t-BodyGyro-std-X 
-t-BodyGyro-std-Y 
-t-BodyGyro-std-Z 
-	The mean standard deviation of the time domain signal of angular velocity in the X,Y and Z movement vectors measured in radians/second.
+t-BodyGyro-std-X <br>
+t-BodyGyro-std-Y <br>
+t-BodyGyro-std-Z <br>
+	The mean standard deviation of the time domain signal of angular velocity in the X,Y and Z movement vectors measured in radians/second.<br><br>
 
 
-t-BodyGyroJerk-std-X 
-t-BodyGyroJerk-std-Y 
-t-BodyGyroJerk-std-Z 
-	The mean standard deviation of the time domain signal of angular velocity jerk in the X,Y and Z movement vectors measured in radians/second.
+t-BodyGyroJerk-std-X <br>
+t-BodyGyroJerk-std-Y <br>
+t-BodyGyroJerk-std-Z <br>
+	The mean standard deviation of the time domain signal of angular velocity jerk in the X,Y and Z movement vectors measured in radians/second.<br><br>
 
-t-BodyAccMag-std 
-	The mean standard deviation of the time domain signal of body accleleration magnitude measured in Hz.
+t-BodyAccMag-std <br>
+	The mean standard deviation of the time domain signal of body accleleration magnitude measured in Hz.<br><br>
 
-t-GravityAccMag-std 
-	The mean standard deviation of the time domain signal of body accleleration magnitude measured in Hz.
+t-GravityAccMag-std <br>
+	The mean standard deviation of the time domain signal of body accleleration magnitude measured in Hz.<br><br>
 	
 	
-t-BodyAccJerkMag-std 
-	The mean standard deviation of the time domain signal of body accleleration jerk magnitude measured in Hz.
+t-BodyAccJerkMag-std <br>
+	The mean standard deviation of the time domain signal of body accleleration jerk magnitude measured in Hz.<br><br>
 
 	
-t-BodyGyroMag-std 
-	The mean standard deviation of the time domain signal of angular velocity magnitude measured in radians/second.
+t-BodyGyroMag-std <br>
+	The mean standard deviation of the time domain signal of angular velocity magnitude measured in radians/second.<br><br>
 
 	
-t-BodyGyroJerkMag-std 
-	The mean standard deviation of the time domain signal of angular velocity jerk magnitude measured in radians/second.
+t-BodyGyroJerkMag-std <br>
+	The mean standard deviation of the time domain signal of angular velocity jerk magnitude measured in radians/second.<br><br>
 
 	
-f-BodyAcc-std-X 
-f-BodyAcc-std-Y 
-f-BodyAcc-std-Z 
-	The mean standard deviation of the frequency domain signal of body acceleration in the X,Y and Z movement vectors measured in Hz.
+f-BodyAcc-std-X <br>
+f-BodyAcc-std-Y <br>
+f-BodyAcc-std-Z <br>
+	The mean standard deviation of the frequency domain signal of body acceleration in the X,Y and Z movement vectors measured in Hz.<br>
 	
 
-f-BodyAccJerk-std-X 
-f-BodyAccJerk-std-Y 
-f-BodyAccJerk-std-Z 
-	The mean standard deviation of the frequency domain signal of body acceleration jerk in the X,Y and Z movement vectors measured in Hz.
+f-BodyAccJerk-std-X <br>
+f-BodyAccJerk-std-Y <br>
+f-BodyAccJerk-std-Z <br>
+	The mean standard deviation of the frequency domain signal of body acceleration jerk in the X,Y and Z movement vectors measured in Hz.<br><br>
 	
-f-BodyGyro-std-X 
-f-BodyGyro-std-Y 
-f-BodyGyro-std-Z 
-	The mean standard deviation of the frequency domain signal of angular velocity in the X,Y and Z movement vectors measured in radians/second.
+f-BodyGyro-std-X <br>
+f-BodyGyro-std-Y <br>
+f-BodyGyro-std-Z<br>
+	The mean standard deviation of the frequency domain signal of angular velocity in the X,Y and Z movement vectors measured in radians/second.<br><br>
 
 	
-f-BodyAccMag-std 
-	The mean standard deviation of the frequency domain signal of linear body acceleration magnitude measured in Hz.
+f-BodyAccMag-std <br>
+	The mean standard deviation of the frequency domain signal of linear body acceleration magnitude measured in Hz.<br><br>
 
-f-BodyAccJerkMag-std 
-	The mean standard deviation of the frequency domain signal of linear body acceleration jerk magnitude measured in Hz.
+f-BodyAccJerkMag-std <br>
+	The mean standard deviation of the frequency domain signal of linear body acceleration jerk magnitude measured in Hz.<br><br>
 
-f-BodyGyroMag-std 
-	The mean standard deviation of the frequency domain signal of angular velocity magnitude measured in radians/second.
+f-BodyGyroMag-std <br>
+	The mean standard deviation of the frequency domain signal of angular velocity magnitude measured in radians/second.<br><br>
 
-f-BodyGyroJerkMag-std 
-	The mean standard deviation of the frequency domain signal of angular velocity jerk magnitude measured in radians/second.
+f-BodyGyroJerkMag-std<br> 
+	The mean standard deviation of the frequency domain signal of angular velocity jerk magnitude measured in radians/second.<br><br>
 
