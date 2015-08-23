@@ -30,7 +30,7 @@ was calculated using the jerk signals.
 
 
 subject 
-	The data set contains information gathered from 30 volunteers who participated in the study.  The range is from 1 to 30.
+	The data set contains information gathered from 30 volunteers who participated in the study.  The range is 		from 1 to 30.
 
 activity 
 	*The 30 subjects performed 6 different activities to gather the data.  
