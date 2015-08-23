@@ -8,7 +8,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 Once you have downloaded the zip file, unzip it in your working directory.
 
-Next, download run_analysis.R and open it in R.  After  the script is run, the data meets 
+Next, open run_analysis.R in R or R Studio and run the script..  After  the script is run, the data meets 
 the tidy data guidelines set forth by Hadley Wickham of:
 
 1. Each variable forms a column
