@@ -25,6 +25,7 @@ and can be found here:  https://class.coursera.org/getdata-031/forum/thread?thre
 
 
 data <- read.table("https://s3.amazonaws.com/coursera-uploads/user-d84591e97948261f5a5a07ca/975115/asst-3/9138161049ad11e5b8dd7b83afe28ae6.txt", header= TRUE)
+
 View(data)
 
 
