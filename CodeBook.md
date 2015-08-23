@@ -33,8 +33,8 @@ subject
 	The data set contains information gathered from 30 volunteers who participated in the study.  The range is from 1 to 30.
 
 activity 
-	The 30 subjects performed 6 different activities to gather the data.  
-	Laying, Sitting, Standing, Walking, Walking_Downstairs, Walking_Upstairs
+	*The 30 subjects performed 6 different activities to gather the data.  
+	*Laying, Sitting, Standing, Walking, Walking_Downstairs, Walking_Upstairs
 
 
 t-BodyAcc-mean-X 
